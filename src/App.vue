@@ -2,18 +2,18 @@
   <div id="app">
     <Header-main />
     <section id="home" class="hero">
-      <div class="hero-content">
-        <h1>Econsciente</h1>
-        <p>Pequena descrição sobre o site.</p>
-      </div>
+        <div class="hero-content">
+          <div class="hero-shadow">
+            <h1>Econsciente</h1>
+            <p>Inspirando mudanças para um planeta melhor.</p>
+          </div>
+        </div>
     </section>
     <main>
-      <section id="objetivos">
-        <Objectives-section />
-      </section>
       <section id="reciclagem">
         <Recyclin-section />
       </section>
+
       <section id="coletivismo">
         <Coletivism-section />
       </section>
@@ -26,7 +26,6 @@
 </template>
 <script>
 import HeaderMain from "./components/header-main.vue";
-import ObjectivesSection from "./components/objectives-section.vue";
 import RecyclinSection from "./components/recyclin-section.vue";
 import ColetivismSection from "./components/coletivism-section.vue";
 import ConsientizationSection from "./components/consientization-section.vue";
@@ -36,7 +35,6 @@ export default {
   name: "App",
   components: {
     HeaderMain,
-    ObjectivesSection,
     RecyclinSection,
     ColetivismSection,
     ConsientizationSection,
@@ -46,6 +44,18 @@ export default {
 </script>
 
 <style>
+* {
+  list-style-type: none;
+}
+
+ul{
+  padding: 0;
+  margin: 0;
+}
+ul li{
+    padding: 0;
+  margin: 0;
+}
 body,
 html {
   margin: 0;
@@ -75,11 +85,55 @@ html {
 .hero-content h1 {
   font-size: 4rem;
   margin: 0;
+
 }
 
 .hero-content p {
   font-size: 1.5rem;
   margin: 0;
+
+
+}
+
+.hero-shadow{
+  padding: .5rem;
+  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.342);
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.card {
+  background: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  width: 30%;
+  margin: 10px;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+  width: 100%;
+  border-bottom: 1px solid #ddd;
+  border-radius: 8px 8px 0 0;
+}
+
+.card p {
+  padding: 10px;
+}
+
+.card a {
+  display: block;
+  padding: 10px;
+  background: #00796b;
+  color: white;
+  text-decoration: none;
+  border-radius: 0 0 8px 8px;
 }
 
 main {
@@ -95,10 +149,12 @@ section {
 }
 
 h2 {
-  color: #2e7d32; /* Verde ambiental */
+  color: #2e7d32;
+}
+h3 {
+  color: #2e7d32;
 }
 
-/* Estilos responsivos */
 @media (max-width: 768px) {
   .hero-content h1 {
     font-size: 2.5rem;
@@ -111,6 +167,16 @@ h2 {
   section {
     margin: 1rem 0;
     padding: 1rem;
+  }
+  .cards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .card {
+    width: 100%;
   }
 }
 

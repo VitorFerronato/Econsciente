@@ -1,25 +1,26 @@
 <template>
   <footer>
-    <p>Seu Nome</p>
-    <p>Contato: seuemail@exemplo.com</p>
     <nav>
       <ul>
         <li><a href="#home">Home</a></li>
         <li><a href="#objetivos">Objetivos</a></li>
-        <li><a href="#reciclagem">Reciclagem</a></li>
         <li><a href="#coletivismo">Coletivismo</a></li>
         <li><a href="#conscientizacao">Conscientização</a></li>
       </ul>
     </nav>
+    <p >Made with &#x2764;&#xfe0f; by Vitor Ferronato</p>
   </footer>
 </template>
 
 <script>
-export default {
-};
+export default {};
 </script>
 
-<style>
+<style  scoped>
+p{
+  font-size: 14px;
+  margin-bottom: 0;
+}
 footer {
   background: #2e7d32;
   color: white;

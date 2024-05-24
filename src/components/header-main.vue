@@ -4,7 +4,6 @@
       <div class="menu-toggle" @click="toggleMenu">&#9776;</div>
       <ul :class="{ show: isMenuOpen }">
         <li><a href="#home" @click="toggleMenu">Home</a></li>
-        <li><a href="#objetivos" @click="toggleMenu">Objetivos</a></li>
         <li><a href="#reciclagem" @click="toggleMenu">Reciclagem</a></li>
         <li><a href="#coletivismo" @click="toggleMenu">Coletivismo</a></li>
         <li><a href="#conscientizacao" @click="toggleMenu">Conscientização</a></li>
