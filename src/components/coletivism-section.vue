@@ -95,7 +95,7 @@
     <div class="cards">
       <div class="card">
         <img
-          src="https://source.unsplash.com/1600x900/?sky"
+          src="https://img.freepik.com/fotos-gratis/foto-hipnotizante-da-ponta-da-piedade_181624-41715.jpg?t=st=1718022394~exp=1718025994~hmac=0f0aec59c25187c8d943406d041581ce417a0a510f92bc9167ab56452ee1fc30&w=1060"
           alt="Imagem de uma floresta"
         />
         <p>A importância da cooperação para a sustentabilidade social.</p>
@@ -107,7 +107,7 @@
       </div>
       <div class="card">
         <img
-          src="https://source.unsplash.com/1600x900/?sea"
+          src="https://img.freepik.com/fotos-gratis/bela-foto-de-um-mar-e-as-montanhas-rochosas-a-distancia-com-nuvens-no-ceu_181624-2401.jpg?t=st=1718022412~exp=1718026012~hmac=1dc334f0608875fb703845b726cd122fa7d073b50a1794cd878f39f1627d69ae&w=1380"
           alt="Reciclagem de plástico"
         />
         <p>Como a solidariedade pode transformar comunidades.</p>
@@ -119,7 +119,7 @@
       </div>
       <div class="card">
         <img
-          src="https://source.unsplash.com/1600x900/?birds"
+          src="https://img.freepik.com/fotos-gratis/bela-foto-do-lago-azul-cercado-por-colinas-sob-um-ceu-azul-na-nova-zelandia_181624-12792.jpg?t=st=1718022453~exp=1718026053~hmac=b83de6ac0024ec03bd0661ada27135290670277e8ed119a2568bbc74ca8df856&w=1380"
           alt="Energia solar"
         />
         <p>Benefícios de projetos comunitários para o meio ambiente.</p>

@@ -98,7 +98,7 @@
 
     <div class="cards">
       <div class="card">
-        <img src="https://source.unsplash.com/1600x900/?nature" />
+        <img src="https://img.freepik.com/fotos-gratis/foto-hipnotizante-de-uma-bela-paisagem-marinha-nos-acores-portugal_181624-37085.jpg?t=st=1718022241~exp=1718025841~hmac=3dbd58f2cf322522dd6ad809622b9b40c387f104fdaef6b2960ca4209b9c7b25&w=740" />
         <p>A importância das florestas para a sustentabilidade ambiental.</p>
         <a
           href="https://www.iberdrola.com/sustentabilidade/importancia-da-floresta#:~:text=As%20florestas%20fornecem%20%C3%A1gua%20pot%C3%A1vel,vinculada%20com%20a%20gest%C3%A3o%20florestal.&text=As%20florestas%20propiciam%2040%25%20de%20toda%20a%20energia%20renov%C3%A1vel%20do%20mundo."
@@ -107,7 +107,7 @@
         >
       </div>
       <div class="card">
-        <img src="https://source.unsplash.com/1600x900/?nature,sky" />
+        <img src="https://img.freepik.com/fotos-gratis/foto-de-grande-angular-de-uma-unica-arvore-crescendo-sob-um-ceu-nublado-durante-um-por-do-sol-cercado-por-grama_181624-22807.jpg?t=st=1718022340~exp=1718025940~hmac=b189868c2dfb842ca9334ccb635f3a43fcaee1cb6eb13c124e2e0653718534dd&w=1380" />
         <p>Como a reciclagem de plástico pode salvar o planeta.</p>
         <a
           href="https://www.valgroupco.com/esg/voce-sabia-que-o-plastico-pode-ajudar-na-preservacao-dos-recursos-naturais/#:~:text=Impedir%20a%20contamina%C3%A7%C3%A3o%20dos%20solos,dos%20recursos%20naturais%20do%20planeta."
@@ -116,7 +116,7 @@
         >
       </div>
       <div class="card">
-        <img src="https://source.unsplash.com/1600x900/?nature,environment" />
+        <img src="https://img.freepik.com/fotos-gratis/bela-paisagem-de-um-rio-cercado-por-muito-verde-em-uma-floresta_181624-40482.jpg?t=st=1718022367~exp=1718025967~hmac=8e3ab2e83bc005dd73aca310524ff18cbadfcd2b7d46f75a140bd65285ba7925&w=1380" />
         <p>Benefícios da energia solar para o meio ambiente.</p>
         <a
           href="https://www.portalsolar.com.br/energia-solar-e-sustentabilidade#:~:text=Em%20vista%20disso%2C%20energias%20renov%C3%A1veis,do%20uso%20de%20recursos%20naturais."

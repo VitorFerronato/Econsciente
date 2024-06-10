@@ -44,6 +44,10 @@ export default {
 </script>
 
 <style>
+img{
+  width: 1200px;
+  height: 500px;
+}
 * {
   list-style-type: none;
 }

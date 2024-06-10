@@ -93,7 +93,7 @@
     <div class="cards">
       <div class="card">
         <img
-          src="https://source.unsplash.com/1600x900/?sun"
+          src="https://img.freepik.com/fotos-gratis/bela-foto-de-uma-lua-vermelha-com-um-ceu-noturno-escuro_181624-29392.jpg?t=st=1718022495~exp=1718026095~hmac=af028d10476ac032f09af22190b9ca004746fb66c679a78e8a6c750772badf52&w=1380"
           alt="Imagem de uma floresta"
         />
         <p>A importância da educação ambiental nas escolas.</p>
@@ -105,7 +105,7 @@
       </div>
       <div class="card">
         <img
-          src="https://source.unsplash.com/1600x900/?clouds"
+          src="https://img.freepik.com/fotos-gratis/caminho-de-terra-em-um-parque-florestal-passando-por-uma-arca-de-pedra-na-serra-do-bucaco-portugal_181624-34388.jpg?t=st=1718022513~exp=1718026113~hmac=5e545c131a1b5dce1721e266b73440d7b6b2e3a3d7953e6d1fc99f925589e185&w=1060"
           alt="Reciclagem de plástico"
         />
         <p>Como campanhas de sensibilização podem transformar atitudes.</p>
@@ -117,7 +117,7 @@
       </div>
       <div class="card">
         <img
-          src="https://source.unsplash.com/1600x900/?heaven"
+          src="https://img.freepik.com/fotos-gratis/belo-pedaco-de-floresta-a-luz-do-dia_23-2148992434.jpg?t=st=1718022565~exp=1718026165~hmac=9a2a080cd1390c7b3e7be687365dc7e0a4dcf90784920cc407ac50cf7f0026c5&w=1380"
           alt="Energia solar"
         />
         <p>O papel da comunidade na promoção da sustentabilidade.</p>
